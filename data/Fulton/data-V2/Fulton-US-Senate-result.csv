@@ -1,0 +1,505 @@
+"county","precinct","office","district","party","candidate","votes"
+"Fulton","Gloversville Ward 1 Dist 1","U.S. Senate",NA,"DEM","Chuck Schumer",166
+"Fulton","Gloversville Ward 1 Dist 2","U.S. Senate",NA,"DEM","Chuck Schumer",195
+"Fulton","Gloversville Ward 2 Dist 1","U.S. Senate",NA,"DEM","Chuck Schumer",128
+"Fulton","Gloversville Ward 2 Dist 2","U.S. Senate",NA,"DEM","Chuck Schumer",104
+"Fulton","Gloversville Ward 3 Dist 1","U.S. Senate",NA,"DEM","Chuck Schumer",249
+"Fulton","Gloversville Ward 3 Dist 2","U.S. Senate",NA,"DEM","Chuck Schumer",206
+"Fulton","Gloversville Ward 4 Dist 1","U.S. Senate",NA,"DEM","Chuck Schumer",158
+"Fulton","Gloversville Ward 4 Dist 2","U.S. Senate",NA,"DEM","Chuck Schumer",149
+"Fulton","Gloversville Ward 5 Dist 1","U.S. Senate",NA,"DEM","Chuck Schumer",248
+"Fulton","Gloversville Ward 5 Dist 2","U.S. Senate",NA,"DEM","Chuck Schumer",231
+"Fulton","Gloversville Ward 6 Dist 1","U.S. Senate",NA,"DEM","Chuck Schumer",150
+"Fulton","Gloversville Ward 6 Dist 2","U.S. Senate",NA,"DEM","Chuck Schumer",176
+"Fulton","Johnstown Ward 1 Dist 1","U.S. Senate",NA,"DEM","Chuck Schumer",185
+"Fulton","Johnstown Ward 1 Dist 2","U.S. Senate",NA,"DEM","Chuck Schumer",198
+"Fulton","Johnstown Ward 2 Dist 1","U.S. Senate",NA,"DEM","Chuck Schumer",186
+"Fulton","Johnstown Ward 2 Dist 2","U.S. Senate",NA,"DEM","Chuck Schumer",181
+"Fulton","Johnstown Ward 3 Dist 1","U.S. Senate",NA,"DEM","Chuck Schumer",179
+"Fulton","Johnstown Ward 3 Dist 2","U.S. Senate",NA,"DEM","Chuck Schumer",183
+"Fulton","Johnstown Ward 4 Dist 1","U.S. Senate",NA,"DEM","Chuck Schumer",251
+"Fulton","Johnstown Ward 4 Dist 2","U.S. Senate",NA,"DEM","Chuck Schumer",145
+"Fulton","Bleecker","U.S. Senate",NA,"DEM","Chuck Schumer",121
+"Fulton","Broadalbin 1","U.S. Senate",NA,"DEM","Chuck Schumer",259
+"Fulton","Broadalbin 2","U.S. Senate",NA,"DEM","Chuck Schumer",274
+"Fulton","Broadalbin 3","U.S. Senate",NA,"DEM","Chuck Schumer",170
+"Fulton","Broadalbin 4","U.S. Senate",NA,"DEM","Chuck Schumer",207
+"Fulton","Caroga","U.S. Senate",NA,"DEM","Chuck Schumer",255
+"Fulton","Ephratah","U.S. Senate",NA,"DEM","Chuck Schumer",214
+"Fulton","Johnstown 1","U.S. Senate",NA,"DEM","Chuck Schumer",286
+"Fulton","Johnstown 2","U.S. Senate",NA,"DEM","Chuck Schumer",356
+"Fulton","Johnstown 3","U.S. Senate",NA,"DEM","Chuck Schumer",302
+"Fulton","Johnstown 4","U.S. Senate",NA,"DEM","Chuck Schumer",235
+"Fulton","Mayfield 1","U.S. Senate",NA,"DEM","Chuck Schumer",196
+"Fulton","Mayfield 2","U.S. Senate",NA,"DEM","Chuck Schumer",241
+"Fulton","Mayfield 3","U.S. Senate",NA,"DEM","Chuck Schumer",285
+"Fulton","Mayfield 4","U.S. Senate",NA,"DEM","Chuck Schumer",287
+"Fulton","Northampton 1","U.S. Senate",NA,"DEM","Chuck Schumer",255
+"Fulton","Northampton 2","U.S. Senate",NA,"DEM","Chuck Schumer",19
+"Fulton","Northampton 3","U.S. Senate",NA,"DEM","Chuck Schumer",205
+"Fulton","Oppenheim 1","U.S. Senate",NA,"DEM","Chuck Schumer",240
+"Fulton","Perth 1","U.S. Senate",NA,"DEM","Chuck Schumer",300
+"Fulton","Perth 2","U.S. Senate",NA,"DEM","Chuck Schumer",349
+"Fulton","Stratford 1","U.S. Senate",NA,"DEM","Chuck Schumer",87
+"Fulton","Gloversville Ward 1 Dist 1","U.S. Senate",NA,"WOR","Chuck Schumer",21
+"Fulton","Gloversville Ward 1 Dist 2","U.S. Senate",NA,"WOR","Chuck Schumer",11
+"Fulton","Gloversville Ward 2 Dist 1","U.S. Senate",NA,"WOR","Chuck Schumer",7
+"Fulton","Gloversville Ward 2 Dist 2","U.S. Senate",NA,"WOR","Chuck Schumer",18
+"Fulton","Gloversville Ward 3 Dist 1","U.S. Senate",NA,"WOR","Chuck Schumer",17
+"Fulton","Gloversville Ward 3 Dist 2","U.S. Senate",NA,"WOR","Chuck Schumer",8
+"Fulton","Gloversville Ward 4 Dist 1","U.S. Senate",NA,"WOR","Chuck Schumer",14
+"Fulton","Gloversville Ward 4 Dist 2","U.S. Senate",NA,"WOR","Chuck Schumer",22
+"Fulton","Gloversville Ward 5 Dist 1","U.S. Senate",NA,"WOR","Chuck Schumer",14
+"Fulton","Gloversville Ward 5 Dist 2","U.S. Senate",NA,"WOR","Chuck Schumer",18
+"Fulton","Gloversville Ward 6 Dist 1","U.S. Senate",NA,"WOR","Chuck Schumer",11
+"Fulton","Gloversville Ward 6 Dist 2","U.S. Senate",NA,"WOR","Chuck Schumer",13
+"Fulton","Johnstown Ward 1 Dist 1","U.S. Senate",NA,"WOR","Chuck Schumer",13
+"Fulton","Johnstown Ward 1 Dist 2","U.S. Senate",NA,"WOR","Chuck Schumer",9
+"Fulton","Johnstown Ward 2 Dist 1","U.S. Senate",NA,"WOR","Chuck Schumer",23
+"Fulton","Johnstown Ward 2 Dist 2","U.S. Senate",NA,"WOR","Chuck Schumer",32
+"Fulton","Johnstown Ward 3 Dist 1","U.S. Senate",NA,"WOR","Chuck Schumer",13
+"Fulton","Johnstown Ward 3 Dist 2","U.S. Senate",NA,"WOR","Chuck Schumer",10
+"Fulton","Johnstown Ward 4 Dist 1","U.S. Senate",NA,"WOR","Chuck Schumer",9
+"Fulton","Johnstown Ward 4 Dist 2","U.S. Senate",NA,"WOR","Chuck Schumer",10
+"Fulton","Bleecker","U.S. Senate",NA,"WOR","Chuck Schumer",12
+"Fulton","Broadalbin 1","U.S. Senate",NA,"WOR","Chuck Schumer",16
+"Fulton","Broadalbin 2","U.S. Senate",NA,"WOR","Chuck Schumer",21
+"Fulton","Broadalbin 3","U.S. Senate",NA,"WOR","Chuck Schumer",18
+"Fulton","Broadalbin 4","U.S. Senate",NA,"WOR","Chuck Schumer",22
+"Fulton","Caroga","U.S. Senate",NA,"WOR","Chuck Schumer",27
+"Fulton","Ephratah","U.S. Senate",NA,"WOR","Chuck Schumer",26
+"Fulton","Johnstown 1","U.S. Senate",NA,"WOR","Chuck Schumer",13
+"Fulton","Johnstown 2","U.S. Senate",NA,"WOR","Chuck Schumer",33
+"Fulton","Johnstown 3","U.S. Senate",NA,"WOR","Chuck Schumer",28
+"Fulton","Johnstown 4","U.S. Senate",NA,"WOR","Chuck Schumer",16
+"Fulton","Mayfield 1","U.S. Senate",NA,"WOR","Chuck Schumer",15
+"Fulton","Mayfield 2","U.S. Senate",NA,"WOR","Chuck Schumer",18
+"Fulton","Mayfield 3","U.S. Senate",NA,"WOR","Chuck Schumer",12
+"Fulton","Mayfield 4","U.S. Senate",NA,"WOR","Chuck Schumer",33
+"Fulton","Northampton 1","U.S. Senate",NA,"WOR","Chuck Schumer",20
+"Fulton","Northampton 2","U.S. Senate",NA,"WOR","Chuck Schumer",1
+"Fulton","Northampton 3","U.S. Senate",NA,"WOR","Chuck Schumer",11
+"Fulton","Oppenheim 1","U.S. Senate",NA,"WOR","Chuck Schumer",31
+"Fulton","Perth 1","U.S. Senate",NA,"WOR","Chuck Schumer",21
+"Fulton","Perth 2","U.S. Senate",NA,"WOR","Chuck Schumer",23
+"Fulton","Stratford 1","U.S. Senate",NA,"WOR","Chuck Schumer",16
+"Fulton","Gloversville Ward 1 Dist 1","U.S. Senate",NA,"IND","Chuck Schumer",8
+"Fulton","Gloversville Ward 1 Dist 2","U.S. Senate",NA,"IND","Chuck Schumer",10
+"Fulton","Gloversville Ward 2 Dist 1","U.S. Senate",NA,"IND","Chuck Schumer",9
+"Fulton","Gloversville Ward 2 Dist 2","U.S. Senate",NA,"IND","Chuck Schumer",12
+"Fulton","Gloversville Ward 3 Dist 1","U.S. Senate",NA,"IND","Chuck Schumer",6
+"Fulton","Gloversville Ward 3 Dist 2","U.S. Senate",NA,"IND","Chuck Schumer",14
+"Fulton","Gloversville Ward 4 Dist 1","U.S. Senate",NA,"IND","Chuck Schumer",11
+"Fulton","Gloversville Ward 4 Dist 2","U.S. Senate",NA,"IND","Chuck Schumer",7
+"Fulton","Gloversville Ward 5 Dist 1","U.S. Senate",NA,"IND","Chuck Schumer",18
+"Fulton","Gloversville Ward 5 Dist 2","U.S. Senate",NA,"IND","Chuck Schumer",17
+"Fulton","Gloversville Ward 6 Dist 1","U.S. Senate",NA,"IND","Chuck Schumer",9
+"Fulton","Gloversville Ward 6 Dist 2","U.S. Senate",NA,"IND","Chuck Schumer",15
+"Fulton","Johnstown Ward 1 Dist 1","U.S. Senate",NA,"IND","Chuck Schumer",6
+"Fulton","Johnstown Ward 1 Dist 2","U.S. Senate",NA,"IND","Chuck Schumer",12
+"Fulton","Johnstown Ward 2 Dist 1","U.S. Senate",NA,"IND","Chuck Schumer",10
+"Fulton","Johnstown Ward 2 Dist 2","U.S. Senate",NA,"IND","Chuck Schumer",8
+"Fulton","Johnstown Ward 3 Dist 1","U.S. Senate",NA,"IND","Chuck Schumer",16
+"Fulton","Johnstown Ward 3 Dist 2","U.S. Senate",NA,"IND","Chuck Schumer",12
+"Fulton","Johnstown Ward 4 Dist 1","U.S. Senate",NA,"IND","Chuck Schumer",12
+"Fulton","Johnstown Ward 4 Dist 2","U.S. Senate",NA,"IND","Chuck Schumer",9
+"Fulton","Bleecker","U.S. Senate",NA,"IND","Chuck Schumer",7
+"Fulton","Broadalbin 1","U.S. Senate",NA,"IND","Chuck Schumer",13
+"Fulton","Broadalbin 2","U.S. Senate",NA,"IND","Chuck Schumer",18
+"Fulton","Broadalbin 3","U.S. Senate",NA,"IND","Chuck Schumer",9
+"Fulton","Broadalbin 4","U.S. Senate",NA,"IND","Chuck Schumer",12
+"Fulton","Caroga","U.S. Senate",NA,"IND","Chuck Schumer",16
+"Fulton","Ephratah","U.S. Senate",NA,"IND","Chuck Schumer",16
+"Fulton","Johnstown 1","U.S. Senate",NA,"IND","Chuck Schumer",17
+"Fulton","Johnstown 2","U.S. Senate",NA,"IND","Chuck Schumer",27
+"Fulton","Johnstown 3","U.S. Senate",NA,"IND","Chuck Schumer",23
+"Fulton","Johnstown 4","U.S. Senate",NA,"IND","Chuck Schumer",17
+"Fulton","Mayfield 1","U.S. Senate",NA,"IND","Chuck Schumer",12
+"Fulton","Mayfield 2","U.S. Senate",NA,"IND","Chuck Schumer",17
+"Fulton","Mayfield 3","U.S. Senate",NA,"IND","Chuck Schumer",13
+"Fulton","Mayfield 4","U.S. Senate",NA,"IND","Chuck Schumer",27
+"Fulton","Northampton 1","U.S. Senate",NA,"IND","Chuck Schumer",15
+"Fulton","Northampton 2","U.S. Senate",NA,"IND","Chuck Schumer",0
+"Fulton","Northampton 3","U.S. Senate",NA,"IND","Chuck Schumer",10
+"Fulton","Oppenheim 1","U.S. Senate",NA,"IND","Chuck Schumer",19
+"Fulton","Perth 1","U.S. Senate",NA,"IND","Chuck Schumer",20
+"Fulton","Perth 2","U.S. Senate",NA,"IND","Chuck Schumer",19
+"Fulton","Stratford 1","U.S. Senate",NA,"IND","Chuck Schumer",6
+"Fulton","Gloversville Ward 1 Dist 1","U.S. Senate",NA,"WEP","Chuck Schumer",3
+"Fulton","Gloversville Ward 1 Dist 2","U.S. Senate",NA,"WEP","Chuck Schumer",3
+"Fulton","Gloversville Ward 2 Dist 1","U.S. Senate",NA,"WEP","Chuck Schumer",3
+"Fulton","Gloversville Ward 2 Dist 2","U.S. Senate",NA,"WEP","Chuck Schumer",2
+"Fulton","Gloversville Ward 3 Dist 1","U.S. Senate",NA,"WEP","Chuck Schumer",3
+"Fulton","Gloversville Ward 3 Dist 2","U.S. Senate",NA,"WEP","Chuck Schumer",2
+"Fulton","Gloversville Ward 4 Dist 1","U.S. Senate",NA,"WEP","Chuck Schumer",5
+"Fulton","Gloversville Ward 4 Dist 2","U.S. Senate",NA,"WEP","Chuck Schumer",5
+"Fulton","Gloversville Ward 5 Dist 1","U.S. Senate",NA,"WEP","Chuck Schumer",2
+"Fulton","Gloversville Ward 5 Dist 2","U.S. Senate",NA,"WEP","Chuck Schumer",2
+"Fulton","Gloversville Ward 6 Dist 1","U.S. Senate",NA,"WEP","Chuck Schumer",7
+"Fulton","Gloversville Ward 6 Dist 2","U.S. Senate",NA,"WEP","Chuck Schumer",1
+"Fulton","Johnstown Ward 1 Dist 1","U.S. Senate",NA,"WEP","Chuck Schumer",2
+"Fulton","Johnstown Ward 1 Dist 2","U.S. Senate",NA,"WEP","Chuck Schumer",2
+"Fulton","Johnstown Ward 2 Dist 1","U.S. Senate",NA,"WEP","Chuck Schumer",2
+"Fulton","Johnstown Ward 2 Dist 2","U.S. Senate",NA,"WEP","Chuck Schumer",3
+"Fulton","Johnstown Ward 3 Dist 1","U.S. Senate",NA,"WEP","Chuck Schumer",3
+"Fulton","Johnstown Ward 3 Dist 2","U.S. Senate",NA,"WEP","Chuck Schumer",4
+"Fulton","Johnstown Ward 4 Dist 1","U.S. Senate",NA,"WEP","Chuck Schumer",6
+"Fulton","Johnstown Ward 4 Dist 2","U.S. Senate",NA,"WEP","Chuck Schumer",3
+"Fulton","Bleecker","U.S. Senate",NA,"WEP","Chuck Schumer",4
+"Fulton","Broadalbin 1","U.S. Senate",NA,"WEP","Chuck Schumer",1
+"Fulton","Broadalbin 2","U.S. Senate",NA,"WEP","Chuck Schumer",7
+"Fulton","Broadalbin 3","U.S. Senate",NA,"WEP","Chuck Schumer",3
+"Fulton","Broadalbin 4","U.S. Senate",NA,"WEP","Chuck Schumer",2
+"Fulton","Caroga","U.S. Senate",NA,"WEP","Chuck Schumer",6
+"Fulton","Ephratah","U.S. Senate",NA,"WEP","Chuck Schumer",9
+"Fulton","Johnstown 1","U.S. Senate",NA,"WEP","Chuck Schumer",4
+"Fulton","Johnstown 2","U.S. Senate",NA,"WEP","Chuck Schumer",2
+"Fulton","Johnstown 3","U.S. Senate",NA,"WEP","Chuck Schumer",3
+"Fulton","Johnstown 4","U.S. Senate",NA,"WEP","Chuck Schumer",1
+"Fulton","Mayfield 1","U.S. Senate",NA,"WEP","Chuck Schumer",2
+"Fulton","Mayfield 2","U.S. Senate",NA,"WEP","Chuck Schumer",1
+"Fulton","Mayfield 3","U.S. Senate",NA,"WEP","Chuck Schumer",4
+"Fulton","Mayfield 4","U.S. Senate",NA,"WEP","Chuck Schumer",6
+"Fulton","Northampton 1","U.S. Senate",NA,"WEP","Chuck Schumer",2
+"Fulton","Northampton 2","U.S. Senate",NA,"WEP","Chuck Schumer",0
+"Fulton","Northampton 3","U.S. Senate",NA,"WEP","Chuck Schumer",4
+"Fulton","Oppenheim 1","U.S. Senate",NA,"WEP","Chuck Schumer",7
+"Fulton","Perth 1","U.S. Senate",NA,"WEP","Chuck Schumer",8
+"Fulton","Perth 2","U.S. Senate",NA,"WEP","Chuck Schumer",4
+"Fulton","Stratford 1","U.S. Senate",NA,"WEP","Chuck Schumer",3
+"Fulton","Gloversville Ward 1 Dist 1","U.S. Senate",NA,"REP","Wendy Long",101
+"Fulton","Gloversville Ward 1 Dist 2","U.S. Senate",NA,"REP","Wendy Long",118
+"Fulton","Gloversville Ward 2 Dist 1","U.S. Senate",NA,"REP","Wendy Long",79
+"Fulton","Gloversville Ward 2 Dist 2","U.S. Senate",NA,"REP","Wendy Long",97
+"Fulton","Gloversville Ward 3 Dist 1","U.S. Senate",NA,"REP","Wendy Long",165
+"Fulton","Gloversville Ward 3 Dist 2","U.S. Senate",NA,"REP","Wendy Long",140
+"Fulton","Gloversville Ward 4 Dist 1","U.S. Senate",NA,"REP","Wendy Long",83
+"Fulton","Gloversville Ward 4 Dist 2","U.S. Senate",NA,"REP","Wendy Long",98
+"Fulton","Gloversville Ward 5 Dist 1","U.S. Senate",NA,"REP","Wendy Long",129
+"Fulton","Gloversville Ward 5 Dist 2","U.S. Senate",NA,"REP","Wendy Long",131
+"Fulton","Gloversville Ward 6 Dist 1","U.S. Senate",NA,"REP","Wendy Long",93
+"Fulton","Gloversville Ward 6 Dist 2","U.S. Senate",NA,"REP","Wendy Long",130
+"Fulton","Johnstown Ward 1 Dist 1","U.S. Senate",NA,"REP","Wendy Long",135
+"Fulton","Johnstown Ward 1 Dist 2","U.S. Senate",NA,"REP","Wendy Long",186
+"Fulton","Johnstown Ward 2 Dist 1","U.S. Senate",NA,"REP","Wendy Long",116
+"Fulton","Johnstown Ward 2 Dist 2","U.S. Senate",NA,"REP","Wendy Long",161
+"Fulton","Johnstown Ward 3 Dist 1","U.S. Senate",NA,"REP","Wendy Long",138
+"Fulton","Johnstown Ward 3 Dist 2","U.S. Senate",NA,"REP","Wendy Long",138
+"Fulton","Johnstown Ward 4 Dist 1","U.S. Senate",NA,"REP","Wendy Long",149
+"Fulton","Johnstown Ward 4 Dist 2","U.S. Senate",NA,"REP","Wendy Long",151
+"Fulton","Bleecker","U.S. Senate",NA,"REP","Wendy Long",138
+"Fulton","Broadalbin 1","U.S. Senate",NA,"REP","Wendy Long",237
+"Fulton","Broadalbin 2","U.S. Senate",NA,"REP","Wendy Long",326
+"Fulton","Broadalbin 3","U.S. Senate",NA,"REP","Wendy Long",220
+"Fulton","Broadalbin 4","U.S. Senate",NA,"REP","Wendy Long",246
+"Fulton","Caroga","U.S. Senate",NA,"REP","Wendy Long",286
+"Fulton","Ephratah","U.S. Senate",NA,"REP","Wendy Long",297
+"Fulton","Johnstown 1","U.S. Senate",NA,"REP","Wendy Long",265
+"Fulton","Johnstown 2","U.S. Senate",NA,"REP","Wendy Long",310
+"Fulton","Johnstown 3","U.S. Senate",NA,"REP","Wendy Long",324
+"Fulton","Johnstown 4","U.S. Senate",NA,"REP","Wendy Long",265
+"Fulton","Mayfield 1","U.S. Senate",NA,"REP","Wendy Long",241
+"Fulton","Mayfield 2","U.S. Senate",NA,"REP","Wendy Long",291
+"Fulton","Mayfield 3","U.S. Senate",NA,"REP","Wendy Long",321
+"Fulton","Mayfield 4","U.S. Senate",NA,"REP","Wendy Long",352
+"Fulton","Northampton 1","U.S. Senate",NA,"REP","Wendy Long",318
+"Fulton","Northampton 2","U.S. Senate",NA,"REP","Wendy Long",3
+"Fulton","Northampton 3","U.S. Senate",NA,"REP","Wendy Long",218
+"Fulton","Oppenheim 1","U.S. Senate",NA,"REP","Wendy Long",318
+"Fulton","Perth 1","U.S. Senate",NA,"REP","Wendy Long",335
+"Fulton","Perth 2","U.S. Senate",NA,"REP","Wendy Long",351
+"Fulton","Stratford 1","U.S. Senate",NA,"REP","Wendy Long",129
+"Fulton","Gloversville Ward 1 Dist 1","U.S. Senate",NA,"CON","Wendy Long",12
+"Fulton","Gloversville Ward 1 Dist 2","U.S. Senate",NA,"CON","Wendy Long",16
+"Fulton","Gloversville Ward 2 Dist 1","U.S. Senate",NA,"CON","Wendy Long",11
+"Fulton","Gloversville Ward 2 Dist 2","U.S. Senate",NA,"CON","Wendy Long",10
+"Fulton","Gloversville Ward 3 Dist 1","U.S. Senate",NA,"CON","Wendy Long",18
+"Fulton","Gloversville Ward 3 Dist 2","U.S. Senate",NA,"CON","Wendy Long",12
+"Fulton","Gloversville Ward 4 Dist 1","U.S. Senate",NA,"CON","Wendy Long",4
+"Fulton","Gloversville Ward 4 Dist 2","U.S. Senate",NA,"CON","Wendy Long",9
+"Fulton","Gloversville Ward 5 Dist 1","U.S. Senate",NA,"CON","Wendy Long",15
+"Fulton","Gloversville Ward 5 Dist 2","U.S. Senate",NA,"CON","Wendy Long",15
+"Fulton","Gloversville Ward 6 Dist 1","U.S. Senate",NA,"CON","Wendy Long",12
+"Fulton","Gloversville Ward 6 Dist 2","U.S. Senate",NA,"CON","Wendy Long",19
+"Fulton","Johnstown Ward 1 Dist 1","U.S. Senate",NA,"CON","Wendy Long",8
+"Fulton","Johnstown Ward 1 Dist 2","U.S. Senate",NA,"CON","Wendy Long",20
+"Fulton","Johnstown Ward 2 Dist 1","U.S. Senate",NA,"CON","Wendy Long",17
+"Fulton","Johnstown Ward 2 Dist 2","U.S. Senate",NA,"CON","Wendy Long",8
+"Fulton","Johnstown Ward 3 Dist 1","U.S. Senate",NA,"CON","Wendy Long",16
+"Fulton","Johnstown Ward 3 Dist 2","U.S. Senate",NA,"CON","Wendy Long",15
+"Fulton","Johnstown Ward 4 Dist 1","U.S. Senate",NA,"CON","Wendy Long",17
+"Fulton","Johnstown Ward 4 Dist 2","U.S. Senate",NA,"CON","Wendy Long",12
+"Fulton","Bleecker","U.S. Senate",NA,"CON","Wendy Long",15
+"Fulton","Broadalbin 1","U.S. Senate",NA,"CON","Wendy Long",26
+"Fulton","Broadalbin 2","U.S. Senate",NA,"CON","Wendy Long",55
+"Fulton","Broadalbin 3","U.S. Senate",NA,"CON","Wendy Long",25
+"Fulton","Broadalbin 4","U.S. Senate",NA,"CON","Wendy Long",22
+"Fulton","Caroga","U.S. Senate",NA,"CON","Wendy Long",23
+"Fulton","Ephratah","U.S. Senate",NA,"CON","Wendy Long",37
+"Fulton","Johnstown 1","U.S. Senate",NA,"CON","Wendy Long",31
+"Fulton","Johnstown 2","U.S. Senate",NA,"CON","Wendy Long",26
+"Fulton","Johnstown 3","U.S. Senate",NA,"CON","Wendy Long",23
+"Fulton","Johnstown 4","U.S. Senate",NA,"CON","Wendy Long",35
+"Fulton","Mayfield 1","U.S. Senate",NA,"CON","Wendy Long",26
+"Fulton","Mayfield 2","U.S. Senate",NA,"CON","Wendy Long",24
+"Fulton","Mayfield 3","U.S. Senate",NA,"CON","Wendy Long",42
+"Fulton","Mayfield 4","U.S. Senate",NA,"CON","Wendy Long",42
+"Fulton","Northampton 1","U.S. Senate",NA,"CON","Wendy Long",51
+"Fulton","Northampton 2","U.S. Senate",NA,"CON","Wendy Long",27
+"Fulton","Northampton 3","U.S. Senate",NA,"CON","Wendy Long",24
+"Fulton","Oppenheim 1","U.S. Senate",NA,"CON","Wendy Long",38
+"Fulton","Perth 1","U.S. Senate",NA,"CON","Wendy Long",53
+"Fulton","Perth 2","U.S. Senate",NA,"CON","Wendy Long",54
+"Fulton","Stratford 1","U.S. Senate",NA,"CON","Wendy Long",16
+"Fulton","Gloversville Ward 1 Dist 1","U.S. Senate",NA,"REF","Wendy Long",1
+"Fulton","Gloversville Ward 1 Dist 2","U.S. Senate",NA,"REF","Wendy Long",1
+"Fulton","Gloversville Ward 2 Dist 1","U.S. Senate",NA,"REF","Wendy Long",0
+"Fulton","Gloversville Ward 2 Dist 2","U.S. Senate",NA,"REF","Wendy Long",3
+"Fulton","Gloversville Ward 3 Dist 1","U.S. Senate",NA,"REF","Wendy Long",0
+"Fulton","Gloversville Ward 3 Dist 2","U.S. Senate",NA,"REF","Wendy Long",0
+"Fulton","Gloversville Ward 4 Dist 1","U.S. Senate",NA,"REF","Wendy Long",0
+"Fulton","Gloversville Ward 4 Dist 2","U.S. Senate",NA,"REF","Wendy Long",1
+"Fulton","Gloversville Ward 5 Dist 1","U.S. Senate",NA,"REF","Wendy Long",0
+"Fulton","Gloversville Ward 5 Dist 2","U.S. Senate",NA,"REF","Wendy Long",1
+"Fulton","Gloversville Ward 6 Dist 1","U.S. Senate",NA,"REF","Wendy Long",2
+"Fulton","Gloversville Ward 6 Dist 2","U.S. Senate",NA,"REF","Wendy Long",2
+"Fulton","Johnstown Ward 1 Dist 1","U.S. Senate",NA,"REF","Wendy Long",0
+"Fulton","Johnstown Ward 1 Dist 2","U.S. Senate",NA,"REF","Wendy Long",0
+"Fulton","Johnstown Ward 2 Dist 1","U.S. Senate",NA,"REF","Wendy Long",0
+"Fulton","Johnstown Ward 2 Dist 2","U.S. Senate",NA,"REF","Wendy Long",0
+"Fulton","Johnstown Ward 3 Dist 1","U.S. Senate",NA,"REF","Wendy Long",2
+"Fulton","Johnstown Ward 3 Dist 2","U.S. Senate",NA,"REF","Wendy Long",1
+"Fulton","Johnstown Ward 4 Dist 1","U.S. Senate",NA,"REF","Wendy Long",2
+"Fulton","Johnstown Ward 4 Dist 2","U.S. Senate",NA,"REF","Wendy Long",0
+"Fulton","Bleecker","U.S. Senate",NA,"REF","Wendy Long",0
+"Fulton","Broadalbin 1","U.S. Senate",NA,"REF","Wendy Long",0
+"Fulton","Broadalbin 2","U.S. Senate",NA,"REF","Wendy Long",2
+"Fulton","Broadalbin 3","U.S. Senate",NA,"REF","Wendy Long",3
+"Fulton","Broadalbin 4","U.S. Senate",NA,"REF","Wendy Long",0
+"Fulton","Caroga","U.S. Senate",NA,"REF","Wendy Long",1
+"Fulton","Ephratah","U.S. Senate",NA,"REF","Wendy Long",2
+"Fulton","Johnstown 1","U.S. Senate",NA,"REF","Wendy Long",3
+"Fulton","Johnstown 2","U.S. Senate",NA,"REF","Wendy Long",1
+"Fulton","Johnstown 3","U.S. Senate",NA,"REF","Wendy Long",0
+"Fulton","Johnstown 4","U.S. Senate",NA,"REF","Wendy Long",2
+"Fulton","Mayfield 1","U.S. Senate",NA,"REF","Wendy Long",2
+"Fulton","Mayfield 2","U.S. Senate",NA,"REF","Wendy Long",1
+"Fulton","Mayfield 3","U.S. Senate",NA,"REF","Wendy Long",3
+"Fulton","Mayfield 4","U.S. Senate",NA,"REF","Wendy Long",0
+"Fulton","Northampton 1","U.S. Senate",NA,"REF","Wendy Long",1
+"Fulton","Northampton 2","U.S. Senate",NA,"REF","Wendy Long",5
+"Fulton","Northampton 3","U.S. Senate",NA,"REF","Wendy Long",0
+"Fulton","Oppenheim 1","U.S. Senate",NA,"REF","Wendy Long",4
+"Fulton","Perth 1","U.S. Senate",NA,"REF","Wendy Long",0
+"Fulton","Perth 2","U.S. Senate",NA,"REF","Wendy Long",1
+"Fulton","Stratford 1","U.S. Senate",NA,"REF","Wendy Long",0
+"Fulton","Gloversville Ward 1 Dist 1","U.S. Senate",NA,"GRE","Robin Laverne Wilson",8
+"Fulton","Gloversville Ward 1 Dist 2","U.S. Senate",NA,"GRE","Robin Laverne Wilson",7
+"Fulton","Gloversville Ward 2 Dist 1","U.S. Senate",NA,"GRE","Robin Laverne Wilson",5
+"Fulton","Gloversville Ward 2 Dist 2","U.S. Senate",NA,"GRE","Robin Laverne Wilson",5
+"Fulton","Gloversville Ward 3 Dist 1","U.S. Senate",NA,"GRE","Robin Laverne Wilson",6
+"Fulton","Gloversville Ward 3 Dist 2","U.S. Senate",NA,"GRE","Robin Laverne Wilson",4
+"Fulton","Gloversville Ward 4 Dist 1","U.S. Senate",NA,"GRE","Robin Laverne Wilson",3
+"Fulton","Gloversville Ward 4 Dist 2","U.S. Senate",NA,"GRE","Robin Laverne Wilson",5
+"Fulton","Gloversville Ward 5 Dist 1","U.S. Senate",NA,"GRE","Robin Laverne Wilson",10
+"Fulton","Gloversville Ward 5 Dist 2","U.S. Senate",NA,"GRE","Robin Laverne Wilson",6
+"Fulton","Gloversville Ward 6 Dist 1","U.S. Senate",NA,"GRE","Robin Laverne Wilson",6
+"Fulton","Gloversville Ward 6 Dist 2","U.S. Senate",NA,"GRE","Robin Laverne Wilson",6
+"Fulton","Johnstown Ward 1 Dist 1","U.S. Senate",NA,"GRE","Robin Laverne Wilson",6
+"Fulton","Johnstown Ward 1 Dist 2","U.S. Senate",NA,"GRE","Robin Laverne Wilson",2
+"Fulton","Johnstown Ward 2 Dist 1","U.S. Senate",NA,"GRE","Robin Laverne Wilson",7
+"Fulton","Johnstown Ward 2 Dist 2","U.S. Senate",NA,"GRE","Robin Laverne Wilson",6
+"Fulton","Johnstown Ward 3 Dist 1","U.S. Senate",NA,"GRE","Robin Laverne Wilson",11
+"Fulton","Johnstown Ward 3 Dist 2","U.S. Senate",NA,"GRE","Robin Laverne Wilson",2
+"Fulton","Johnstown Ward 4 Dist 1","U.S. Senate",NA,"GRE","Robin Laverne Wilson",2
+"Fulton","Johnstown Ward 4 Dist 2","U.S. Senate",NA,"GRE","Robin Laverne Wilson",4
+"Fulton","Bleecker","U.S. Senate",NA,"GRE","Robin Laverne Wilson",2
+"Fulton","Broadalbin 1","U.S. Senate",NA,"GRE","Robin Laverne Wilson",4
+"Fulton","Broadalbin 2","U.S. Senate",NA,"GRE","Robin Laverne Wilson",8
+"Fulton","Broadalbin 3","U.S. Senate",NA,"GRE","Robin Laverne Wilson",3
+"Fulton","Broadalbin 4","U.S. Senate",NA,"GRE","Robin Laverne Wilson",3
+"Fulton","Caroga","U.S. Senate",NA,"GRE","Robin Laverne Wilson",9
+"Fulton","Ephratah","U.S. Senate",NA,"GRE","Robin Laverne Wilson",9
+"Fulton","Johnstown 1","U.S. Senate",NA,"GRE","Robin Laverne Wilson",5
+"Fulton","Johnstown 2","U.S. Senate",NA,"GRE","Robin Laverne Wilson",9
+"Fulton","Johnstown 3","U.S. Senate",NA,"GRE","Robin Laverne Wilson",10
+"Fulton","Johnstown 4","U.S. Senate",NA,"GRE","Robin Laverne Wilson",2
+"Fulton","Mayfield 1","U.S. Senate",NA,"GRE","Robin Laverne Wilson",8
+"Fulton","Mayfield 2","U.S. Senate",NA,"GRE","Robin Laverne Wilson",6
+"Fulton","Mayfield 3","U.S. Senate",NA,"GRE","Robin Laverne Wilson",3
+"Fulton","Mayfield 4","U.S. Senate",NA,"GRE","Robin Laverne Wilson",3
+"Fulton","Northampton 1","U.S. Senate",NA,"GRE","Robin Laverne Wilson",3
+"Fulton","Northampton 2","U.S. Senate",NA,"GRE","Robin Laverne Wilson",0
+"Fulton","Northampton 3","U.S. Senate",NA,"GRE","Robin Laverne Wilson",6
+"Fulton","Oppenheim 1","U.S. Senate",NA,"GRE","Robin Laverne Wilson",6
+"Fulton","Perth 1","U.S. Senate",NA,"GRE","Robin Laverne Wilson",5
+"Fulton","Perth 2","U.S. Senate",NA,"GRE","Robin Laverne Wilson",4
+"Fulton","Stratford 1","U.S. Senate",NA,"GRE","Robin Laverne Wilson",4
+"Fulton","Gloversville Ward 1 Dist 1","U.S. Senate",NA,"LIB","Alex Merced",2
+"Fulton","Gloversville Ward 1 Dist 2","U.S. Senate",NA,"LIB","Alex Merced",4
+"Fulton","Gloversville Ward 2 Dist 1","U.S. Senate",NA,"LIB","Alex Merced",3
+"Fulton","Gloversville Ward 2 Dist 2","U.S. Senate",NA,"LIB","Alex Merced",3
+"Fulton","Gloversville Ward 3 Dist 1","U.S. Senate",NA,"LIB","Alex Merced",3
+"Fulton","Gloversville Ward 3 Dist 2","U.S. Senate",NA,"LIB","Alex Merced",4
+"Fulton","Gloversville Ward 4 Dist 1","U.S. Senate",NA,"LIB","Alex Merced",4
+"Fulton","Gloversville Ward 4 Dist 2","U.S. Senate",NA,"LIB","Alex Merced",4
+"Fulton","Gloversville Ward 5 Dist 1","U.S. Senate",NA,"LIB","Alex Merced",6
+"Fulton","Gloversville Ward 5 Dist 2","U.S. Senate",NA,"LIB","Alex Merced",4
+"Fulton","Gloversville Ward 6 Dist 1","U.S. Senate",NA,"LIB","Alex Merced",5
+"Fulton","Gloversville Ward 6 Dist 2","U.S. Senate",NA,"LIB","Alex Merced",6
+"Fulton","Johnstown Ward 1 Dist 1","U.S. Senate",NA,"LIB","Alex Merced",2
+"Fulton","Johnstown Ward 1 Dist 2","U.S. Senate",NA,"LIB","Alex Merced",4
+"Fulton","Johnstown Ward 2 Dist 1","U.S. Senate",NA,"LIB","Alex Merced",4
+"Fulton","Johnstown Ward 2 Dist 2","U.S. Senate",NA,"LIB","Alex Merced",3
+"Fulton","Johnstown Ward 3 Dist 1","U.S. Senate",NA,"LIB","Alex Merced",4
+"Fulton","Johnstown Ward 3 Dist 2","U.S. Senate",NA,"LIB","Alex Merced",3
+"Fulton","Johnstown Ward 4 Dist 1","U.S. Senate",NA,"LIB","Alex Merced",4
+"Fulton","Johnstown Ward 4 Dist 2","U.S. Senate",NA,"LIB","Alex Merced",5
+"Fulton","Bleecker","U.S. Senate",NA,"LIB","Alex Merced",2
+"Fulton","Broadalbin 1","U.S. Senate",NA,"LIB","Alex Merced",7
+"Fulton","Broadalbin 2","U.S. Senate",NA,"LIB","Alex Merced",5
+"Fulton","Broadalbin 3","U.S. Senate",NA,"LIB","Alex Merced",6
+"Fulton","Broadalbin 4","U.S. Senate",NA,"LIB","Alex Merced",1
+"Fulton","Caroga","U.S. Senate",NA,"LIB","Alex Merced",9
+"Fulton","Ephratah","U.S. Senate",NA,"LIB","Alex Merced",5
+"Fulton","Johnstown 1","U.S. Senate",NA,"LIB","Alex Merced",7
+"Fulton","Johnstown 2","U.S. Senate",NA,"LIB","Alex Merced",10
+"Fulton","Johnstown 3","U.S. Senate",NA,"LIB","Alex Merced",5
+"Fulton","Johnstown 4","U.S. Senate",NA,"LIB","Alex Merced",4
+"Fulton","Mayfield 1","U.S. Senate",NA,"LIB","Alex Merced",2
+"Fulton","Mayfield 2","U.S. Senate",NA,"LIB","Alex Merced",2
+"Fulton","Mayfield 3","U.S. Senate",NA,"LIB","Alex Merced",6
+"Fulton","Mayfield 4","U.S. Senate",NA,"LIB","Alex Merced",5
+"Fulton","Northampton 1","U.S. Senate",NA,"LIB","Alex Merced",4
+"Fulton","Northampton 2","U.S. Senate",NA,"LIB","Alex Merced",0
+"Fulton","Northampton 3","U.S. Senate",NA,"LIB","Alex Merced",5
+"Fulton","Oppenheim 1","U.S. Senate",NA,"LIB","Alex Merced",1
+"Fulton","Perth 1","U.S. Senate",NA,"LIB","Alex Merced",4
+"Fulton","Perth 2","U.S. Senate",NA,"LIB","Alex Merced",6
+"Fulton","Stratford 1","U.S. Senate",NA,"LIB","Alex Merced",3
+"Fulton","Gloversville Ward 1 Dist 1","U.S. Senate",NA,"","Write-Ins",0
+"Fulton","Gloversville Ward 1 Dist 2","U.S. Senate",NA,"","Write-Ins",0
+"Fulton","Gloversville Ward 2 Dist 1","U.S. Senate",NA,"","Write-Ins",0
+"Fulton","Gloversville Ward 2 Dist 2","U.S. Senate",NA,"","Write-Ins",0
+"Fulton","Gloversville Ward 3 Dist 1","U.S. Senate",NA,"","Write-Ins",0
+"Fulton","Gloversville Ward 3 Dist 2","U.S. Senate",NA,"","Write-Ins",0
+"Fulton","Gloversville Ward 4 Dist 1","U.S. Senate",NA,"","Write-Ins",0
+"Fulton","Gloversville Ward 4 Dist 2","U.S. Senate",NA,"","Write-Ins",0
+"Fulton","Gloversville Ward 5 Dist 1","U.S. Senate",NA,"","Write-Ins",0
+"Fulton","Gloversville Ward 5 Dist 2","U.S. Senate",NA,"","Write-Ins",0
+"Fulton","Gloversville Ward 6 Dist 1","U.S. Senate",NA,"","Write-Ins",0
+"Fulton","Gloversville Ward 6 Dist 2","U.S. Senate",NA,"","Write-Ins",0
+"Fulton","Johnstown Ward 1 Dist 1","U.S. Senate",NA,"","Write-Ins",0
+"Fulton","Johnstown Ward 1 Dist 2","U.S. Senate",NA,"","Write-Ins",0
+"Fulton","Johnstown Ward 2 Dist 1","U.S. Senate",NA,"","Write-Ins",0
+"Fulton","Johnstown Ward 2 Dist 2","U.S. Senate",NA,"","Write-Ins",0
+"Fulton","Johnstown Ward 3 Dist 1","U.S. Senate",NA,"","Write-Ins",0
+"Fulton","Johnstown Ward 3 Dist 2","U.S. Senate",NA,"","Write-Ins",0
+"Fulton","Johnstown Ward 4 Dist 1","U.S. Senate",NA,"","Write-Ins",0
+"Fulton","Johnstown Ward 4 Dist 2","U.S. Senate",NA,"","Write-Ins",0
+"Fulton","Bleecker","U.S. Senate",NA,"","Write-Ins",0
+"Fulton","Broadalbin 1","U.S. Senate",NA,"","Write-Ins",0
+"Fulton","Broadalbin 2","U.S. Senate",NA,"","Write-Ins",0
+"Fulton","Broadalbin 3","U.S. Senate",NA,"","Write-Ins",0
+"Fulton","Broadalbin 4","U.S. Senate",NA,"","Write-Ins",0
+"Fulton","Caroga","U.S. Senate",NA,"","Write-Ins",0
+"Fulton","Ephratah","U.S. Senate",NA,"","Write-Ins",0
+"Fulton","Johnstown 1","U.S. Senate",NA,"","Write-Ins",1
+"Fulton","Johnstown 2","U.S. Senate",NA,"","Write-Ins",0
+"Fulton","Johnstown 3","U.S. Senate",NA,"","Write-Ins",0
+"Fulton","Johnstown 4","U.S. Senate",NA,"","Write-Ins",0
+"Fulton","Mayfield 1","U.S. Senate",NA,"","Write-Ins",0
+"Fulton","Mayfield 2","U.S. Senate",NA,"","Write-Ins",0
+"Fulton","Mayfield 3","U.S. Senate",NA,"","Write-Ins",0
+"Fulton","Mayfield 4","U.S. Senate",NA,"","Write-Ins",0
+"Fulton","Northampton 1","U.S. Senate",NA,"","Write-Ins",0
+"Fulton","Northampton 2","U.S. Senate",NA,"","Write-Ins",0
+"Fulton","Northampton 3","U.S. Senate",NA,"","Write-Ins",1
+"Fulton","Oppenheim 1","U.S. Senate",NA,"","Write-Ins",0
+"Fulton","Perth 1","U.S. Senate",NA,"","Write-Ins",0
+"Fulton","Perth 2","U.S. Senate",NA,"","Write-Ins",0
+"Fulton","Stratford 1","U.S. Senate",NA,"","Write-Ins",0
+"Fulton","Gloversville Ward 1 Dist 1","U.S. Senate",NA,"","Voids",0
+"Fulton","Gloversville Ward 1 Dist 2","U.S. Senate",NA,"","Voids",0
+"Fulton","Gloversville Ward 2 Dist 1","U.S. Senate",NA,"","Voids",0
+"Fulton","Gloversville Ward 2 Dist 2","U.S. Senate",NA,"","Voids",1
+"Fulton","Gloversville Ward 3 Dist 1","U.S. Senate",NA,"","Voids",2
+"Fulton","Gloversville Ward 3 Dist 2","U.S. Senate",NA,"","Voids",0
+"Fulton","Gloversville Ward 4 Dist 1","U.S. Senate",NA,"","Voids",0
+"Fulton","Gloversville Ward 4 Dist 2","U.S. Senate",NA,"","Voids",0
+"Fulton","Gloversville Ward 5 Dist 1","U.S. Senate",NA,"","Voids",1
+"Fulton","Gloversville Ward 5 Dist 2","U.S. Senate",NA,"","Voids",0
+"Fulton","Gloversville Ward 6 Dist 1","U.S. Senate",NA,"","Voids",0
+"Fulton","Gloversville Ward 6 Dist 2","U.S. Senate",NA,"","Voids",0
+"Fulton","Johnstown Ward 1 Dist 1","U.S. Senate",NA,"","Voids",1
+"Fulton","Johnstown Ward 1 Dist 2","U.S. Senate",NA,"","Voids",0
+"Fulton","Johnstown Ward 2 Dist 1","U.S. Senate",NA,"","Voids",0
+"Fulton","Johnstown Ward 2 Dist 2","U.S. Senate",NA,"","Voids",0
+"Fulton","Johnstown Ward 3 Dist 1","U.S. Senate",NA,"","Voids",0
+"Fulton","Johnstown Ward 3 Dist 2","U.S. Senate",NA,"","Voids",1
+"Fulton","Johnstown Ward 4 Dist 1","U.S. Senate",NA,"","Voids",0
+"Fulton","Johnstown Ward 4 Dist 2","U.S. Senate",NA,"","Voids",0
+"Fulton","Bleecker","U.S. Senate",NA,"","Voids",0
+"Fulton","Broadalbin 1","U.S. Senate",NA,"","Voids",0
+"Fulton","Broadalbin 2","U.S. Senate",NA,"","Voids",0
+"Fulton","Broadalbin 3","U.S. Senate",NA,"","Voids",0
+"Fulton","Broadalbin 4","U.S. Senate",NA,"","Voids",0
+"Fulton","Caroga","U.S. Senate",NA,"","Voids",2
+"Fulton","Ephratah","U.S. Senate",NA,"","Voids",0
+"Fulton","Johnstown 1","U.S. Senate",NA,"","Voids",0
+"Fulton","Johnstown 2","U.S. Senate",NA,"","Voids",0
+"Fulton","Johnstown 3","U.S. Senate",NA,"","Voids",0
+"Fulton","Johnstown 4","U.S. Senate",NA,"","Voids",1
+"Fulton","Mayfield 1","U.S. Senate",NA,"","Voids",0
+"Fulton","Mayfield 2","U.S. Senate",NA,"","Voids",0
+"Fulton","Mayfield 3","U.S. Senate",NA,"","Voids",0
+"Fulton","Mayfield 4","U.S. Senate",NA,"","Voids",1
+"Fulton","Northampton 1","U.S. Senate",NA,"","Voids",0
+"Fulton","Northampton 2","U.S. Senate",NA,"","Voids",1
+"Fulton","Northampton 3","U.S. Senate",NA,"","Voids",0
+"Fulton","Oppenheim 1","U.S. Senate",NA,"","Voids",0
+"Fulton","Perth 1","U.S. Senate",NA,"","Voids",2
+"Fulton","Perth 2","U.S. Senate",NA,"","Voids",1
+"Fulton","Stratford 1","U.S. Senate",NA,"","Voids",0
+"Fulton","Gloversville Ward 1 Dist 1","U.S. Senate",NA,"","Blanks",26
+"Fulton","Gloversville Ward 1 Dist 2","U.S. Senate",NA,"","Blanks",27
+"Fulton","Gloversville Ward 2 Dist 1","U.S. Senate",NA,"","Blanks",18
+"Fulton","Gloversville Ward 2 Dist 2","U.S. Senate",NA,"","Blanks",31
+"Fulton","Gloversville Ward 3 Dist 1","U.S. Senate",NA,"","Blanks",24
+"Fulton","Gloversville Ward 3 Dist 2","U.S. Senate",NA,"","Blanks",31
+"Fulton","Gloversville Ward 4 Dist 1","U.S. Senate",NA,"","Blanks",34
+"Fulton","Gloversville Ward 4 Dist 2","U.S. Senate",NA,"","Blanks",25
+"Fulton","Gloversville Ward 5 Dist 1","U.S. Senate",NA,"","Blanks",31
+"Fulton","Gloversville Ward 5 Dist 2","U.S. Senate",NA,"","Blanks",24
+"Fulton","Gloversville Ward 6 Dist 1","U.S. Senate",NA,"","Blanks",23
+"Fulton","Gloversville Ward 6 Dist 2","U.S. Senate",NA,"","Blanks",21
+"Fulton","Johnstown Ward 1 Dist 1","U.S. Senate",NA,"","Blanks",39
+"Fulton","Johnstown Ward 1 Dist 2","U.S. Senate",NA,"","Blanks",34
+"Fulton","Johnstown Ward 2 Dist 1","U.S. Senate",NA,"","Blanks",33
+"Fulton","Johnstown Ward 2 Dist 2","U.S. Senate",NA,"","Blanks",29
+"Fulton","Johnstown Ward 3 Dist 1","U.S. Senate",NA,"","Blanks",29
+"Fulton","Johnstown Ward 3 Dist 2","U.S. Senate",NA,"","Blanks",28
+"Fulton","Johnstown Ward 4 Dist 1","U.S. Senate",NA,"","Blanks",31
+"Fulton","Johnstown Ward 4 Dist 2","U.S. Senate",NA,"","Blanks",30
+"Fulton","Bleecker","U.S. Senate",NA,"","Blanks",24
+"Fulton","Broadalbin 1","U.S. Senate",NA,"","Blanks",24
+"Fulton","Broadalbin 2","U.S. Senate",NA,"","Blanks",35
+"Fulton","Broadalbin 3","U.S. Senate",NA,"","Blanks",28
+"Fulton","Broadalbin 4","U.S. Senate",NA,"","Blanks",28
+"Fulton","Caroga","U.S. Senate",NA,"","Blanks",65
+"Fulton","Ephratah","U.S. Senate",NA,"","Blanks",65
+"Fulton","Johnstown 1","U.S. Senate",NA,"","Blanks",39
+"Fulton","Johnstown 2","U.S. Senate",NA,"","Blanks",58
+"Fulton","Johnstown 3","U.S. Senate",NA,"","Blanks",65
+"Fulton","Johnstown 4","U.S. Senate",NA,"","Blanks",45
+"Fulton","Mayfield 1","U.S. Senate",NA,"","Blanks",42
+"Fulton","Mayfield 2","U.S. Senate",NA,"","Blanks",39
+"Fulton","Mayfield 3","U.S. Senate",NA,"","Blanks",42
+"Fulton","Mayfield 4","U.S. Senate",NA,"","Blanks",38
+"Fulton","Northampton 1","U.S. Senate",NA,"","Blanks",42
+"Fulton","Northampton 2","U.S. Senate",NA,"","Blanks",1
+"Fulton","Northampton 3","U.S. Senate",NA,"","Blanks",39
+"Fulton","Oppenheim 1","U.S. Senate",NA,"","Blanks",58
+"Fulton","Perth 1","U.S. Senate",NA,"","Blanks",48
+"Fulton","Perth 2","U.S. Senate",NA,"","Blanks",44
+"Fulton","Stratford 1","U.S. Senate",NA,"","Blanks",18
