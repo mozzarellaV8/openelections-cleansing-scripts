@@ -435,4 +435,4 @@ levels(as.factor(rensselaer$office))
 levels(as.factor(rensselaer$district))
 levels(as.factor(rensselaer$party))
 
-write.csv(rensselaer, file = "data/rensselaer.csv", row.names = F)
+write.csv(rensselaer, file = "data/20161108__ny__general_rensselaer__precinct.csv", row.names = F)
