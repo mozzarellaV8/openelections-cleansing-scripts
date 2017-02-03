@@ -12,4 +12,5 @@ The official website for this project is [OpenElections.net](http://www.openelec
 - [R_scripts](R_scripts)
 - [Essex County](R_scripts/essex.R)
 - [Fulton County](R_scripts/fulton.R)
+- [Rensselaer County](R_scripts/rensselaer.R)
 - [Saratoga County](R_scripts/saratoga.R)
